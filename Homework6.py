@@ -31,7 +31,7 @@ print(position.get_total_income())
 town_car1 = TownCar(70, "Color1", "TownCar1", False)
 town_car1.show_speed()
 town_car1.go()
-town_car1.turn("rigth")
+town_car1.turn("right")
 town_car1.stop()
 
 town_car2 = TownCar(40, "Color2", "TownCar2", False)
